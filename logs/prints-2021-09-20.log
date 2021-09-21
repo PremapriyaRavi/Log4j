@@ -1,0 +1,8 @@
+19:30:56.729 [main] INFO  alpha.Demo - positive log and negative log successful
+19:30:56.744 [main] FATAL alpha.Demo - fatalllllll
+19:31:10.849 [main] ERROR alpha.Demo - element is not visible
+19:31:10.854 [main] DEBUG alpha.Demo - used for sendkeys,gettext,click
+19:31:10.854 [main] INFO  alpha.Demo - positive log and negative log successful
+19:31:10.854 [main] FATAL alpha.Demo - fatalllllll
+19:33:19.455 [main] ERROR alpha.Demo - button is not displayed
+19:33:19.459 [main] DEBUG alpha.Demo - I have to click the button
